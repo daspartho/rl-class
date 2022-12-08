@@ -1,5 +1,3 @@
-# Models
-
 ### Lunar Lander
 
 Trained model of a PPO agent playing LunarLander-v2.
